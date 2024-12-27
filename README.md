@@ -1,5 +1,5 @@
 Name:TestData
-Data for Reaech:a flexible and efficient geological map service access control model, a novel method to connecting users, units, and Environmental data, based on their affiliations.
+Data for Reaech:a flexible and efficient Environmental map service access control model, a novel method to connecting users, units, and Environmental data, based on their affiliations.
 
 Description of the document: 
 
